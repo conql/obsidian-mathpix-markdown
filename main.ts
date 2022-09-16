@@ -55,7 +55,7 @@ class MathpixMdSettingTab extends PluginSettingTab {
 
 		containerEl.empty();
 
-		containerEl.createEl('h2', { text: 'Settings for Mathpix Markdown.' });
+		containerEl.createEl('h2', { text: 'Settings for Mathpix Markdown' });
 
 		new Setting(containerEl)
 			.setName('Enable Mathpix Markdown')
