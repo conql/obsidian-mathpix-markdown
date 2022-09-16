@@ -6,4 +6,4 @@ A plugin for supporting mathpix style markdown (https://mathpix.com/docs/mathpix
 ```
 Your markdown here...
 ```
-\'\'\'
+\'\'\'npm 
